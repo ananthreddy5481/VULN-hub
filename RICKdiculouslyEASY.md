@@ -19,6 +19,7 @@ Scanning the ip address using the nmap on the ip address ::
 command :: ftp <ip> :: ftp 10.190.199.148
 
 common ftp user credentials :: username - "anonymous"  password - "anything" 
+
 <img width="674" height="403" alt="Screenshot 2026-03-01 at 11 03 09" src="https://github.com/user-attachments/assets/27501139-34be-4e3d-aeb8-349c9edcd6bf" />
 
 flag :: Whoa this is unexpected - 10 points 
@@ -31,6 +32,7 @@ FTP -- FILE TRANSFER PROTOCOL
 **SHH** SECURE SHELL - Used to send send commands from one system to the remote system 
 
 <img width="450" height="120" alt="Screenshot 2026-03-01 at 11 35 31" src="https://github.com/user-attachments/assets/46c86858-7f18-4661-8e1e-3f18fb10322d" />
+
 this connection closes immediately after giving the username that means the server is not allowing users from this port.
 
 
@@ -39,6 +41,7 @@ this connection closes immediately after giving the username that means the serv
 robots.txt -- reveals some files and navigate through the file for more info.
 
 <img width="528" height="82" alt="Screenshot 2026-03-01 at 11 58 53" src="https://github.com/user-attachments/assets/d5b800af-1016-4c93-a466-f1a4fc198083" />
+
 the path **"/cgi-bin/tracertool.cgi"** will take u to a user input function which is taking the user input and running the tracertool function inside the other terminal.
 
 this is having command injection that is the user input is directly going into the shell commands.
@@ -97,6 +100,7 @@ check the website :
 
 the service is unknown to the nmap scan.
 using the nc we can
+
 <img width="537" height="74" alt="Screenshot 2026-03-01 at 15 43 47" src="https://github.com/user-attachments/assets/be5e635e-c76d-4c27-8940-e34cea8bceb0" />
 
 ## PORT - 22222
@@ -110,6 +114,7 @@ connecting to the shell using the Summer username and his password winter.
 ## FLAG -- Get off the high road Summer!
 
 <img width="1066" height="83" alt="Screenshot 2026-03-01 at 16 23 17" src="https://github.com/user-attachments/assets/191df078-6c22-4864-a110-fd871dadaf82" />
+
 giving some clue. a message for the rick to use teh command line arguments.
 
 explore the other two directories :
@@ -119,11 +124,14 @@ explore the other two directories :
 in the NotAFlag.txt file also there i nothing.
 
 <img width="656" height="211" alt="Screenshot 2026-03-01 at 16 29 26" src="https://github.com/user-attachments/assets/5dc758ec-2e10-4ed6-844b-65a6a2ea4bcd" />
+
 in the Morty directory there is ziped journal to unzip this we need the password. may the password may be there in the safe_password.zip file.
 
 <img width="656" height="116" alt="Screenshot 2026-03-01 at 16 40 42" src="https://github.com/user-attachments/assets/ebda15d0-0fa8-4bea-9d35-a263a0f45e7a" />
+
 needed spl tools to view the images called imagemagick
 <img width="778" height="144" alt="Screenshot 2026-03-01 at 16 42 01" src="https://github.com/user-attachments/assets/9527f9f2-a193-46be-9735-6a2a647ab66f" />
+
 ## sudoers file
 
 the file which will list the users who have the sudo root user privilages.
