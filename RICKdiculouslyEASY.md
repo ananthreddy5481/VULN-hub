@@ -4,8 +4,11 @@ Place both the vms into one network. use the bridged network type for keeping th
 
 ## SCANNING THE IP :
 
+checking weather both vms are on same network or not.
+the ip of the lab vm is given on the home screen of the vm and for finding the ip of the linux :
+## ip a
 
-finding the ip of the linux utm : ip a  [10.190.199.148]
+if the first 3 parts of the ip address are same then that means they are on same network.
 
 Scanning the ip address using the nmap on the ip address ::
 
