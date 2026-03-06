@@ -72,7 +72,7 @@ in the **passwd** directory i can see the usernames :(the users who have bash sh
 
 <img width="434" height="54" alt="Screenshot 2026-03-01 at 14 18 35" src="https://github.com/user-attachments/assets/6fb68fab-277a-4e5d-aced-20f6bd3b66bf" />
 
-**NIKTO** -- Tool used for scanning the unknown endpoints for a site.
+**NIKTO** -- Tool used for scanning some unknown endpoints for a site and the service methods that it uses.(for directory search **dirsearch** is more efficient than nikto.
 
 command -- nikto -h http://10.135.36.148/
 
