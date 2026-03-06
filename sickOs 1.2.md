@@ -47,6 +47,8 @@ search for the HTTP METHODS on both the **home*** and the **test**
 
 <img width="1141" height="291" alt="Screenshot 2026-03-05 at 11 19 06" src="https://github.com/user-attachments/assets/e3d8496f-350d-49ae-a298-73c30898c6e6" />
 
+## /test/  -- PROPFIND | DELETE | MKCOL | PUT | MOVE | COPY | LOCK | UNLOCK | PROPATCH
 
+using the **PUT** for gaining the remote 
 
 
