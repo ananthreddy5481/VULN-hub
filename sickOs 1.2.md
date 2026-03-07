@@ -92,3 +92,5 @@ now the chkrootkit runs the file "update" and give the www-data sudo access.
 
 
 **but idk why i did not wait for a complete day actually i got the root access as soon as i changed the permissions of the file but as per the definations the cron.daily should run daily once.**
+
+
