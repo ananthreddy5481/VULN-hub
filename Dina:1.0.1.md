@@ -40,7 +40,7 @@ going to the endpoint mentioned in the above img :
 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e1a66482-acf5-43cb-8ffc-1eb6d46aada3" />
 
-password is **"diana"** as that is the smallest one among those.
+password -- **diana** 
 
 also in the page source :
 
@@ -48,5 +48,7 @@ also in the page source :
 
 which means -- turtle loves you until death.
 
+### CVE : https://www.cve.org/CVERecord?id=CVE-2017-9101  && https://www.cve.org/CVERecord?id=CVE-2017-9101
 
+<img width="1470" height="961" alt="Screenshot 2026-03-10 at 21 26 29" src="https://github.com/user-attachments/assets/ae5f86d0-9cbd-43cb-91a4-7b01ff8e180c" />
 
