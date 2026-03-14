@@ -52,3 +52,5 @@ which means -- turtle loves you until death.
 
 <img width="1470" height="961" alt="Screenshot 2026-03-10 at 21 26 29" src="https://github.com/user-attachments/assets/ae5f86d0-9cbd-43cb-91a4-7b01ff8e180c" />
 
+
+
