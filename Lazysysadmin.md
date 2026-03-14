@@ -33,13 +33,13 @@ going into **wordpress** endpoint
 
 ## Connecting to port 139 or 445 
 
-### smbclient -L //<ip> -N
+### smbclient -L // ip -N
 
 <img width="727" height="202" alt="Screenshot 2026-03-14 at 11 17 21" src="https://github.com/user-attachments/assets/1ecbd0db-8440-49e6-b79d-a867a566aa0f" />
 
 listing all the shares(directory) that the computer is sharing in the LAN.
 
-## smbclient //<ip> -N
+### smbclient // ip -N
 
 <img width="772" height="394" alt="Screenshot 2026-03-14 at 11 18 17" src="https://github.com/user-attachments/assets/e3d3084a-abe4-4b9b-b164-c751e2c8c794" />
 
