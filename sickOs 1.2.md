@@ -49,7 +49,7 @@ search for the HTTP METHODS on both the **home*** and the **test**
 
 ## /test/  -- PROPFIND | DELETE | MKCOL | PUT | MOVE | COPY | LOCK | UNLOCK | PROPATCH
 
-using **PUT** -- we can get **RAC** -- Remote Code Execution -- we can inject a malicious code into the remote system and execute that to manipulate that working model.
+using **PUT** -- we can get **RCE** -- Remote Code Execution -- we can inject a malicious code into the remote system and execute that to manipulate that working model.
 
 ## PUT 
 
